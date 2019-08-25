@@ -1,0 +1,6 @@
+{
+    "require": {
+        "kiddyu/beanbun": "^1.0",
+        "imangazaliev/didom": "^1.14"
+    }
+}
